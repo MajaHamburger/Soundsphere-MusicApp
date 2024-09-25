@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const options = {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': '38b065bafemsh4592292504f0750p1ddfc0jsn6d0f55dc976e',
+                'x-rapidapi-key': 'Deezer API key',
                 'x-rapidapi-host': 'deezerdevs-deezer.p.rapidapi.com'
             }
         };
