@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
         1170, 408, 132, 574, 719, 1104, 240, 420, 800, 850
     ];
     //API-Schlüssel und Host-URL für Deezer API
-    const apiKey = "";
+    const apiKey = "deezer API key";
     const apiHost = "deezerdevs-deezer.p.rapidapi.com";
 
     //Funktion zur zufälligen Auswahl einer Künstler-ID aus der Liste
