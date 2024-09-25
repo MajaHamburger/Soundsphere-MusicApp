@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const artistFansContainer = document.getElementById('artist-fans');
     const artistShareContainer = document.getElementById('artist-share');
     const videoContainer = document.getElementById('youtube-video');
-    const apiKey = 'AIzaSyD-zGSI2LCCvmMx2U2KzcqMlyVPQF-NVk4';
+    const apiKey = 'YouTube API Key';
 
     console.log("DOM fully loaded and parsed.");
 
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const options = {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': '38b065bafemsh4592292504f0750p1ddfc0jsn6d0f55dc976e',
+                'x-rapidapi-key': 'Deezer API Key',
                 'x-rapidapi-host': 'deezerdevs-deezer.p.rapidapi.com'
             }
         };
